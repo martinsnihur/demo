@@ -1,7 +1,7 @@
 {
   "users": [
     { "idusuario": 1, "usuario": "msnihur", "email": "martinsnihur@gmail.com", "password": "xxxx", "apellido": "Snihur", "nombre": "Martin", "role": "admin" },
-    { "idusuario": 1, "usuario": "msnihur", "email": "martinsnihur@gmail.com", "password": "xxxx", "apellido": "Snihur", "nombre": "Martin", "role": "admin" }
+    { "idusuario": 2, "usuario": "tito", "email": "titopandereta@gmail.com", "password": "titop", "apellido": "Pandereta", "nombre": "Tito", "role": "admin" }
   ], 
   "profile": {
     "name": "typicode"
